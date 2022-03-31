@@ -1,0 +1,17 @@
+@media all and (max-width: 1000px) {
+  #headers{
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+  }
+  .calculator {
+   width: 340px;
+   margin-top: -910px;
+ }
+
+@media all and (max-width: 670px) {
+  .calculator {
+    width: 200px;
+    margin-top: -540px;
+  }
+   
