@@ -1,5 +1,5 @@
 # Kalkulator-Proyek-Individu
-![logo](https://giphy.com/embed/28GHfhGFWpFgsQB4wR)
+![image.png](https://giphy.com/embed/28GHfhGFWpFgsQB4wR)
 
 Proyek Individu dari progate dengan membangun kalkulator dengan menerapkan HTML, Css, dan JavaScript
 Link untuk mencoba kalkulator yang telah dibuat:
